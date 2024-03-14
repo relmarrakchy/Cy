@@ -1,0 +1,1 @@
+Cy is a  cutting-edge project aimed at revolutionizing cyber threat detection. Cy is designed to detect various forms of cyber threats, including attacks and phishing URLs, through advanced algorithms and machine learning techniques.
