@@ -1,0 +1,118 @@
+.App {
+  width: 100%;
+  display: flex;
+}
+
+.about {
+  width: 23%;
+  height: inherit;
+  border-right: 1px solid black;
+}
+
+.about div {
+  width: 80%;
+  height: 275px;
+  margin: 5% auto;
+}
+
+.about div img {
+  height: 100%;
+  width: 100%;
+}
+
+.ops {
+  width: 77%;
+  height: inherit;
+}
+
+.cyber {
+  width: 100%;
+  height: 50%;
+  border-bottom: 1px solid red;
+  border-radius: 15px;
+}
+
+.title {
+  font-size: 25px;
+  padding-left: 18px;
+  padding-top: 8px;
+  color: rgb(49, 49, 49);
+}
+
+.title i {
+  position: relative;
+  transform: translate(5%, 10%);
+  color: red;
+}
+
+.packet {
+  width: 80%;
+  height: fit-content;
+  margin: 0% auto;
+  margin-top: 3%;
+  margin-bottom: 1%;
+  border: 0.5px solid red;
+  border-radius: 15px;
+}
+
+.packet .t {
+  display: flex;
+}
+
+.packet .bl {
+  display: flex;
+  margin-bottom: 1%;
+}
+
+#f1, #f2, #f3, #f4, #f5, #f6, #f7 {
+  border-color: rgb(255, 179, 179);
+  width: 19%;
+  height: 40px;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+}
+
+.act {
+  margin: 0 auto;
+  width: 80%;
+  height: fit-content;
+  text-align: right;
+}
+
+.alert {
+  margin: 0 auto;
+  text-align: center;
+  width: 20%;
+  padding: 10px 0;
+  font-weight: 500;
+}
+
+.phish {
+  width: 100%;
+  height: 50%;
+  background-color: white;
+}
+
+.url {
+  width: 80%;
+  height: fit-content;
+  margin: 0% auto;
+  margin-top: 3%;
+  margin-bottom: 1%;
+  border-radius: 15px;
+}
+
+.url input {
+  text-align: center;
+  border-color: rgb(255, 179, 179);
+}
+
+.disc {
+  width: 80%;
+  margin: 2% auto;
+  font-size: 18px;
+  font-style: italic;
+  color: rgb(76, 76, 76);
+  text-align: center;
+}
